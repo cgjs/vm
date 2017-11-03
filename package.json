@@ -27,7 +27,7 @@
     "url": "https://github.com/cgjs/vm/issues"
   },
   "homepage": "https://github.com/cgjs/vm#readme",
-  "dependencies": {
-    "cgjs": "^0.1.3"
+  "devDependencies": {
+    "cgjs": "^0.1.9"
   }
 }
